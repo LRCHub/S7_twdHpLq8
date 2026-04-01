@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "卒業",
   "base_artist": "My Hair is Bad",
-  "createdAt": "2026-02-23T15:42:37.927374Z",
+  "createdAt": "2026-04-01T05:34:57.016491Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "My Hair is Bad",
       "has_synced": false,
       "path": "select/pl_01_卒業_My_Hair_is_Bad.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "卒業",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/localdb_01_卒業_My_Hair_is_Bad.txt",
+      "repo_name": "S7_twdHpLq8"
     }
   ]
 }
